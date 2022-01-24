@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.d4306b1f.chunk.css",
-    "main.js": "/Portfolio/static/js/main.a3b20979.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.a3b20979.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.9c4dea18.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.9c4dea18.js.map",
+    "main.js": "/Portfolio/static/js/main.628ac32c.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.628ac32c.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.83e73337.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.83e73337.js.map",
     "static/css/2.e7f3f9d7.chunk.css": "/Portfolio/static/css/2.e7f3f9d7.chunk.css",
-    "static/js/2.d2bb5352.chunk.js": "/Portfolio/static/js/2.d2bb5352.chunk.js",
-    "static/js/2.d2bb5352.chunk.js.map": "/Portfolio/static/js/2.d2bb5352.chunk.js.map",
-    "static/js/3.880bceaa.chunk.js": "/Portfolio/static/js/3.880bceaa.chunk.js",
-    "static/js/3.880bceaa.chunk.js.map": "/Portfolio/static/js/3.880bceaa.chunk.js.map",
+    "static/js/2.26d46e0d.chunk.js": "/Portfolio/static/js/2.26d46e0d.chunk.js",
+    "static/js/2.26d46e0d.chunk.js.map": "/Portfolio/static/js/2.26d46e0d.chunk.js.map",
+    "static/js/3.f0e5a195.chunk.js": "/Portfolio/static/js/3.f0e5a195.chunk.js",
+    "static/js/3.f0e5a195.chunk.js.map": "/Portfolio/static/js/3.f0e5a195.chunk.js.map",
     "index.html": "/Portfolio/index.html",
     "static/css/2.e7f3f9d7.chunk.css.map": "/Portfolio/static/css/2.e7f3f9d7.chunk.css.map",
     "static/css/main.d4306b1f.chunk.css.map": "/Portfolio/static/css/main.d4306b1f.chunk.css.map",
-    "static/js/2.d2bb5352.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.d2bb5352.chunk.js.LICENSE.txt",
+    "static/js/2.26d46e0d.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.26d46e0d.chunk.js.LICENSE.txt",
     "static/media/Salman Qureshi-logos_transparent.12648e69.png": "/Portfolio/static/media/Salman Qureshi-logos_transparent.12648e69.png",
     "static/media/Salman_CV_Jul_2021-NEW (2).e616e0d5.pdf": "/Portfolio/static/media/Salman_CV_Jul_2021-NEW (2).e616e0d5.pdf",
     "static/media/about.aee0f771.png": "/Portfolio/static/media/about.aee0f771.png",
@@ -28,10 +28,10 @@
     "static/media/suicide.b72f1f9f.png": "/Portfolio/static/media/suicide.b72f1f9f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c4dea18.js",
+    "static/js/runtime-main.83e73337.js",
     "static/css/2.e7f3f9d7.chunk.css",
-    "static/js/2.d2bb5352.chunk.js",
+    "static/js/2.26d46e0d.chunk.js",
     "static/css/main.d4306b1f.chunk.css",
-    "static/js/main.a3b20979.chunk.js"
+    "static/js/main.628ac32c.chunk.js"
   ]
 }
